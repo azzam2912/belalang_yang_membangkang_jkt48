@@ -36,7 +36,7 @@ class SweetGirlProject:
         self.勉強する()
         self.dengar_親()
         self.メイク禁止()
-        self.batasi_ゲーム()
+        self.limitation_ゲーム()
 
 study = True
 # Error scenario where the seet girl is not found
