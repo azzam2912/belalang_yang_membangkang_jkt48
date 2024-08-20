@@ -1,5 +1,5 @@
 # プログラム：SweetGirl.project.
-# Deskripsi (6IP]): Training instruction program objektif
+# Deskripsi (説明): Training instruction program objektif
 # sweet girl simulasi rutinitas (ルーチン) sehari-hari;
 # (ロボット) anak yang berperilaku baik dan bertanggung jawab (HfEEx).
 # Prototype code:
