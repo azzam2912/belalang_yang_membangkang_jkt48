@@ -67,7 +67,7 @@ def make_sweet_girl_program():
 rebellious_girl()
 make_sweet_girl_program()
 sweet_girl_project = SweetGirlProject("good student")
-sweet_girl_project.dengar_親()
+sweet_girl_project.rutinitas_harian()
 
 
 
